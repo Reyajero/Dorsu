@@ -1,0 +1,11 @@
+header {
+    padding: 25px;
+    background-color: rgb(59, 68, 204);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+  }
+  
+  .dark-mode {
+    background-color: rgb(208, 206, 217);
+    color: rgb(0, 0, 0);
+  }
